@@ -7,3 +7,6 @@ git tracks changes of files
 
 git branch
 git checkout dev
+
+
+git checkout master
