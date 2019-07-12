@@ -6,3 +6,4 @@ chage4
 git tracks changes of files
 
 git branch
+git checkout dev
